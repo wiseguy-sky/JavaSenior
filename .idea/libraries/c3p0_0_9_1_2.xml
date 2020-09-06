@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="c3p0-0.9.1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/today/lib/c3p0-0.9.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/teach/李立超/jdbc/3-资料/3-资料/2-驱动/03-数据库连接池驱动/c3p0-0.9.1.2.src.zip!/c3p0-0.9.1.2.src/dbms/oracle-thin/src/classes" />
+      <root url="jar://E:/teach/李立超/jdbc/3-资料/3-资料/2-驱动/03-数据库连接池驱动/c3p0-0.9.1.2.src.zip!/c3p0-0.9.1.2.src/relproj/debuggen/src/classes" />
+      <root url="jar://E:/teach/李立超/jdbc/3-资料/3-资料/2-驱动/03-数据库连接池驱动/c3p0-0.9.1.2.src.zip!/c3p0-0.9.1.2.src/src/classes" />
+      <root url="jar://E:/teach/李立超/jdbc/3-资料/3-资料/2-驱动/03-数据库连接池驱动/c3p0-0.9.1.2.src.zip!/c3p0-0.9.1.2.src/src/dist-static/examples" />
+    </SOURCES>
+  </library>
+</component>

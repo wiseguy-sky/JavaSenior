@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="commons-dbcp-1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/today/lib/commons-dbcp-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/teach/李立超/jdbc/3-资料/3-资料/2-驱动/03-数据库连接池驱动/commons-dbcp-1.4/commons-dbcp-1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
